@@ -1,0 +1,84 @@
+PS C:\Users\Gagandeep\Downloads> javac Teacher.java
+PS C:\Users\Gagandeep\Downloads> java Teacher
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+1
+RollNo:1
+Name:Gagandeep
+Marks:95
+Element in ArrayListStudent [rollNo=1, name=Gagandeep, marks=95.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+1
+RollNo:60
+Name:Troye
+Marks:90
+Element in ArrayListStudent [rollNo=1, name=Gagandeep, marks=95.0]
+Element in ArrayListStudent [rollNo=60, name=Troye, marks=90.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+1
+RollNo:23
+Name:Nandini
+Marks:30
+Element in ArrayListStudent [rollNo=1, name=Gagandeep, marks=95.0]
+Element in ArrayListStudent [rollNo=60, name=Troye, marks=90.0]
+Element in ArrayListStudent [rollNo=23, name=Nandini, marks=30.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+3
+enter roll no to search
+1
+Student [rollNo=1, name=Gagandeep, marks=95.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+4
+enter pass marks
+35
+Element in ArrayListStudent [rollNo=23, name=Nandini, marks=30.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+2
+enter roll no to delete
+60
+Element in ArrayListStudent [rollNo=1, name=Gagandeep, marks=95.0]
+Element in ArrayListStudent [rollNo=23, name=Nandini, marks=30.0]
+Select Operation
+1. Add new student
+2. Delete Student
+3. Search Student
+4. List failed Students
+5. Exit
+Enter Choice
+5
+PS C:\Users\Gagandeep\Downloads>
